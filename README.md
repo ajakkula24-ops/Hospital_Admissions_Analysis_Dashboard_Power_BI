@@ -1,7 +1,3 @@
-🌍 Hospital Admissions Healthcare Analytics Dashboard (Power BI)
-
-Healthcare analytics dashboard built in Power BI, analysing hospital admissions, emergency vs planned admissions, patient demographics, wait times, and speciality performance to provide operational insights for healthcare decision-making.
-
 📌 Project Overview
 
 This project presents an end-to-end Healthcare Business Intelligence solution built using Power BI.
@@ -27,7 +23,6 @@ Average Length of Stay: 15 Days
 These metrics provide a quick overview of hospital activity, patient flow, and service demand.
 
 📈 Dashboard Sections
-
 1️⃣ Patient Admissions Overview
 
 KPI cards showing total consultations and admissions
@@ -72,8 +67,6 @@ Identification of departments with high service pressure
 
 Power BI Desktop
 
-Microsoft Excel (Data Source)
-
 DAX (Data Analysis Expressions)
 
 Data Modelling
@@ -86,7 +79,7 @@ Healthcare Data Visualization
 
 Source: Healthcare hospital admissions dataset
 
-Format: Excel (.xlsx)
+Format: CSV (.csv)
 
 The dataset includes:
 
@@ -106,7 +99,13 @@ Length of Stay
 
 Admission Counts
 
-⚠️ Dataset used for educational and portfolio purposes only.
+⚠️ Dataset is used for educational and portfolio purposes only.
+
+📂 Project Files
+
+Hospital_Admissions_Analysis_Dashboard.pbix
+
+Hospital_Admissions_Data.csv
 
 💡 Key Insights
 
@@ -122,7 +121,9 @@ Patient demographics reveal patterns that can support better healthcare planning
 
 Download the .pbix file
 
-Open using Power BI Desktop
+Open with Power BI Desktop
+
+Load the dataset if required
 
 Use filters and slicers to explore insights
 
