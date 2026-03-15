@@ -1,3 +1,7 @@
+🌍 Hospital Admissions Healthcare Analytics Dashboard (Power BI)
+
+Healthcare analytics dashboard built in Power BI, analysing hospital admissions, emergency vs planned admissions, patient demographics, wait times, and speciality performance to provide operational insights for healthcare decision-making.
+
 📌 Project Overview
 
 This project presents an end-to-end Healthcare Business Intelligence solution built using Power BI.
