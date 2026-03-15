@@ -1,15 +1,16 @@
-# Hospital_Admissions_Analysis_Dashboard_Power_BI
-Interactive Power BI dashboard analysing hospital admissions, emergency vs planned admissions, wait times, and speciality performance using healthcare data.
+🌍 Hospital Admissions Healthcare Analytics Dashboard (Power BI)
 
-Project Overview
+Healthcare analytics dashboard built in Power BI, analysing hospital admissions, emergency vs planned admissions, patient demographics, wait times, and speciality performance to provide operational insights for healthcare decision-making.
 
-This project presents an interactive Power BI dashboard analysing hospital admission data to identify trends in patient admissions, emergency visits, waiting times, and speciality performance.
+📌 Project Overview
 
-The dashboard provides insights that can help healthcare organisations monitor hospital performance, improve resource allocation, and understand patient admission patterns.
+This project presents an end-to-end Healthcare Business Intelligence solution built using Power BI.
 
-Dashboard KPIs
+The dashboard analyses hospital admission data across different medical specialities, admission types, and patient demographics to help healthcare organisations monitor performance and improve service delivery.
 
-The dashboard tracks key healthcare metrics:
+The dashboard is designed in a real-world healthcare reporting style, focusing on clear KPIs, interactive analysis, and actionable insights for hospital management.
+
+📊 Key Healthcare Metrics
 
 Total Consultations: 21M
 
@@ -23,27 +24,54 @@ Average Patient Age: 48
 
 Average Length of Stay: 15 Days
 
-These indicators provide a quick overview of hospital activity and patient flow.
+These metrics provide a quick overview of hospital activity, patient flow, and service demand.
 
-Key Dashboard Features
+📈 Dashboard Sections
+1️⃣ Patient Admissions Overview
 
-The dashboard includes the following visualisations:
+KPI cards showing total consultations and admissions
 
-Admission by Gender – Distribution of admissions across genders.
+Comparison of Emergency vs Planned admissions
 
-Average Days Stayed by Speciality – Comparison of hospital stay duration across different medical specialities.
+High-level hospital activity overview
 
-Emergency Admissions & Waitlist – Breakdown of emergency cases and waiting lists by speciality.
+2️⃣ Speciality Performance Analysis
 
-Average Wait Time by Speciality – Analysis of waiting times across departments.
+Average length of hospital stay by speciality
 
-Admission Type Analysis – Comparison of emergency vs other admission methods.
+Comparison of admission volume across medical departments
 
-Interactive Filters – Allows users to explore different specialities and patient segments.
+Identification of departments with higher patient demand
 
-Tools & Technologies Used
+3️⃣ Patient Demographics Analysis
 
-Power BI
+Admission distribution by gender
+
+Analysis of average patient age
+
+Insights into patient population trends
+
+4️⃣ Waiting Time Analysis
+
+Average waiting time by medical speciality
+
+Identification of departments with higher waiting periods
+
+Helps in evaluating hospital service efficiency
+
+5️⃣ Emergency Admissions & Waitlist Analysis
+
+Emergency admissions breakdown across specialities
+
+Waiting list patterns across hospital departments
+
+Identification of departments with high service pressure
+
+🛠 Tools & Technologies
+
+Power BI Desktop
+
+Microsoft Excel (Data Source)
 
 DAX (Data Analysis Expressions)
 
@@ -51,34 +79,126 @@ Data Modelling
 
 Data Cleaning & Transformation
 
-Healthcare Data Analysis
+Healthcare Data Visualization
 
-Skills Demonstrated
+📂 Dataset
 
-This project demonstrates the following data analytics skills:
+Source: Healthcare hospital admissions dataset
 
-Data visualisation
+Format: Excel (.xlsx)
 
-Dashboard development
+The dataset includes:
 
-KPI reporting
+Patient Age
 
-Healthcare data analysis
+Admission Type
 
-Analytical thinking
+Gender
 
-Data modelling using Power BI
+Medical Speciality
 
-Project Files
+Consultation Volume
 
-hospital_admissions_dashboard.pbix – Power BI dashboard file
+Waiting Time
 
-dataset.xlsx – Source dataset used for analysis
+Length of Stay
 
-dashboard_preview.png – Dashboard screenshot
+Admission Counts
 
-Author
+⚠️ Dataset used for educational and portfolio purposes only.
+
+💡 Key Insights
+
+Emergency admissions represent a significant portion of total hospital activity
+
+Certain specialities experience longer patient stay durations
+
+Some departments show higher waiting times, indicating potential resource constraints
+
+Patient demographics reveal patterns that can support better healthcare planning
+
+🚀 How to Use
+
+Download the .pbix file
+
+Open using Power BI Desktop
+
+Use filters and slicers to explore insights
+
+Interact with visualisations to analyse hospital performance
+
+📊 Analysis Report – Hospital Admissions Performance
+
+(Healthcare Business Intelligence Project)
+
+1️⃣ Executive Summary
+
+This project analyses hospital admissions data to identify patient flow patterns, speciality demand, waiting times, and hospital performance metrics.
+
+The analysis is delivered through an interactive Power BI dashboard, helping healthcare administrators understand operational trends and improve hospital service efficiency.
+
+2️⃣ Hospital Activity Overview
+Metric	Value
+Total Consultations	21M
+Total Admissions	17M
+Emergency Admissions	7M
+Planned Admissions	2M
+Average Age	48
+Average Length of Stay	15 Days
+
+Insight:
+Hospitals experience high consultation volumes, with emergency admissions representing a significant share of patient intake.
+
+3️⃣ Speciality-Level Analysis
+
+Some medical specialities show higher patient volumes and longer hospital stays, indicating greater demand for services.
+
+Insight:
+Departments with longer stays may require capacity planning and operational improvements.
+
+4️⃣ Patient Demographic Insights
+
+Analysis of patient demographics helps identify patterns in:
+
+Age distribution
+
+Gender distribution
+
+Admission behaviour
+
+Insight:
+Understanding demographic trends helps healthcare organisations design targeted healthcare strategies.
+
+5️⃣ Waiting Time Analysis
+
+Certain medical departments show longer waiting periods, highlighting areas where hospital service delivery may require optimisation.
+
+Insight:
+Reducing waiting times can improve patient satisfaction and operational efficiency.
+
+6️⃣ Healthcare Service Insights
+
+Emergency admissions drive a significant portion of hospital activity
+
+Some specialities show higher patient stay duration
+
+Waiting times vary across departments
+
+Insight:
+Improved resource allocation can help hospitals manage patient demand more effectively.
+
+🔚 Conclusion
+
+This Power BI dashboard provides a comprehensive view of hospital admissions and healthcare service performance.
+
+The analysis highlights key areas where hospitals can improve operational efficiency, reduce waiting times, and optimise healthcare delivery.
+
+👤 Author
 
 Ajay Jakkula
+MSc Finance – Cardiff University
+Data Analytics | Business Intelligence | Finance Analytics
+📍 United Kingdom
 
-
+⭐ If you like this project
+Give it a ⭐ and feel free to connect!
