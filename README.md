@@ -111,6 +111,8 @@ Hospital_Admissions_Analysis_Dashboard.pbix
 
 Hospital_Admissions_Data.csv
 
+Hospital Admissions Dashboard.png
+
 💡 Key Insights
 
 Emergency admissions represent a significant portion of total hospital activity
