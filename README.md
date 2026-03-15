@@ -23,6 +23,7 @@ Average Length of Stay: 15 Days
 These metrics provide a quick overview of hospital activity, patient flow, and service demand.
 
 📈 Dashboard Sections
+
 1️⃣ Patient Admissions Overview
 
 KPI cards showing total consultations and admissions
@@ -99,7 +100,6 @@ Length of Stay
 
 Admission Counts
 
-⚠️ Dataset is used for educational and portfolio purposes only.
 
 📂 Project Files
 
