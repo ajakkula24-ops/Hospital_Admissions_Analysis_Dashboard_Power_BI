@@ -1,7 +1,6 @@
 # Hospital_Admissions_Analysis_Dashboard_Power_BI
 Interactive Power BI dashboard analysing hospital admissions, emergency vs planned admissions, wait times, and speciality performance using healthcare data.
 
-Hospital Admissions Analytics Dashboard (Power BI)
 Project Overview
 
 This project presents an interactive Power BI dashboard analysing hospital admission data to identify trends in patient admissions, emergency visits, waiting times, and speciality performance.
@@ -78,12 +77,8 @@ dataset.xlsx – Source dataset used for analysis
 
 dashboard_preview.png – Dashboard screenshot
 
-Dashboard Preview
-
-(Add your dashboard screenshot here after uploading)
-
 Author
 
 Ajay Jakkula
-MSc Finance – Cardiff University
-Aspiring Data Analyst / Business Intelligence Analyst
+
+
